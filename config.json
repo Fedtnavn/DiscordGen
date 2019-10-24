@@ -1,0 +1,25 @@
+{ 
+	"token": "NTQ5MTkyNzk1MTAxOTg2ODM2.XbHTag.ljqendphD7E3DQ3KN9ARI0ZNYes",
+	"prefix": "&",
+	"OwnerID": "258636160518193153",
+	"gench": "YourCHIDhere",
+	"gameloopinterval": 200000,
+	"gameloop": [
+		{
+			"text": "my owner, Noah#2241",
+			"type": "LISTENING"
+		},
+		{
+			"text": "potatoes!",
+			"type": "WATCHING"
+		},
+		{
+			"text": "you all",
+			"type": "WATCHING"
+		},
+		{
+			"text": "Hi",
+			"type": "PLAYING"
+		}
+	]
+  }
